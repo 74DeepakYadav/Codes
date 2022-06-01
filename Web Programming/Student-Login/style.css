@@ -1,0 +1,81 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20;
+    background-color: black;
+    color: white;
+}
+
+h3{
+    text-align: center;
+    border: 1px solid;
+    background-color: green;
+    margin: 10px 570px 10px 570px;
+    border-radius: 5px 5px 5px 5px;
+}
+
+p{
+    text-align: center;
+    margin: 10px 575px 10px 575px;
+}
+input{
+    margin: 2px;
+}
+
+legend{
+    border: 1px solid;
+    background-color: aqua;
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 20;
+    border-radius: 5px;
+}
+fieldset{
+    margin: 10px 475px 10px 475px;
+    border: 1px solid;
+    border-radius: 5px;
+}
+
+#name{
+    margin-left: 120px;
+}
+#roll-no{
+    margin-left: 67px;
+}
+#dob{
+    margin-left: 62px;
+}
+#email{
+    margin-left: 120px;
+}
+#phone{
+    margin-left: 89px;
+}
+#username{
+    margin-left: 87px;
+}
+#password{
+    margin-left: 93px;
+}
+#cpassword{
+    margin-left: 20px;
+}
+
+button{
+    margin: 0px 475px 10px 475px;
+    color: white;
+    font-weight: bold;
+    background-color: darkblue;
+    height: 25px;
+    width: 100px;
+    border-radius: 7px;
+}
+
+span{
+    border: 1px solid indigo;
+    padding: 2px;
+    color: white;
+    background-color: indigo;
+    margin-left: 100px;
+    border-radius: 7px;
+}
